@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-> *"Innovating at the intersection of AI and application development."*
+> *"Innovating at the intersection of AI"*
 
 - 🌱 I’m deeply exploring **Multi-Agent AI systems**
 
